@@ -5,7 +5,7 @@ const TopMenu = () => {
     <nav className="navbar navbar-expand-lg navbar-dark bg-dark p-0">
       <div className="container-fluid">
         <Link className="navbar-brand" to="/">
-          E-Commerce
+          Meram Belediyesi Satış Mağazası
         </Link>
         <button
           className="navbar-toggler"
@@ -28,17 +28,17 @@ const TopMenu = () => {
                 aria-expanded="false"
                 data-bs-toggle="dropdown"
               >
-                All Pages
+                İşlemler
               </button>
               <ul className="dropdown-menu" aria-labelledby="navbarDropdown">
                 <li>
                   <Link className="dropdown-item" to="/account/signin">
-                    Sign In
+                    Giriş Yap
                   </Link>
                 </li>
                 <li>
                   <Link className="dropdown-item" to="/account/signup">
-                    Sign Up
+                    Kaydol
                   </Link>
                 </li>
                 <li>
@@ -46,72 +46,47 @@ const TopMenu = () => {
                 </li>
                 <li>
                   <Link className="dropdown-item" to="/checkout">
-                    Checkout Page
+                    Ödeme Sayfası
                   </Link>
                 </li>
                 <li>
                   <Link className="dropdown-item" to="/contact-us">
-                    Contact Us
-                  </Link>
-                </li>
-                <li>
-                  <Link className="dropdown-item" to="/blog">
-                    Blog
-                  </Link>
-                </li>
-                <li>
-                  <Link className="dropdown-item" to="/blog/detail">
-                    Blog Detail
+                    İletişim
                   </Link>
                 </li>
                 <li>
                   <hr className="dropdown-divider" />
                 </li>
-                <li>
-                  <Link className="dropdown-item" to="/fsafasf">
-                    404 Page Not Found
-                  </Link>
-                </li>
-                <li>
-                  <Link className="dropdown-item" to="/500">
-                    500 Internal Server Error
-                  </Link>
-                </li>
               </ul>
             </li>
             <li className="nav-item">
               <Link className="nav-link" to="/category">
-                Fashion
+                Konyaya Özgü Ürünler
               </Link>
             </li>
             <li className="nav-item">
               <Link className="nav-link" to="/category">
-                Supermarket
+                Moda
               </Link>
             </li>
             <li className="nav-item">
               <Link className="nav-link" to="/category">
-                Electronics
+                Süpermarket
               </Link>
             </li>
             <li className="nav-item">
               <Link className="nav-link" to="/category">
-                Furniture
+                Elektronik
               </Link>
             </li>
             <li className="nav-item">
               <Link className="nav-link" to="/category">
-                Garden & Outdoors
+                Mobilya
               </Link>
             </li>
             <li className="nav-item">
               <Link className="nav-link" to="/category">
-                Jewellery
-              </Link>
-            </li>
-            <li className="nav-item">
-              <Link className="nav-link" to="/documentation">
-                Documentation
+                Bahçe Ürünleri
               </Link>
             </li>
           </ul>

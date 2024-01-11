@@ -28,7 +28,7 @@ const CouponApplyForm = (props) => {
         className="btn btn-sm btn-primary mt-3 float-end"
         disabled={submitting}
       >
-        Apply
+        Uygula
       </button>
     </form>
   );

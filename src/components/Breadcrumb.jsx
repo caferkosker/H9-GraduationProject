@@ -6,16 +6,16 @@ const Breadcrumb = () => {
       <ol className="breadcrumb rounded-0">
         <li className="breadcrumb-item">
           <Link to="/" title="Home">
-            Home
+            Ana Sayfa
           </Link>
         </li>
         <li className="breadcrumb-item">
           <Link to="/" title="Men">
-            Men
+            Mevlana Şekeri
           </Link>
         </li>
         <li className="breadcrumb-item active" aria-current="page">
-          T-Shirts
+          Konya
         </li>
       </ol>
     </nav>

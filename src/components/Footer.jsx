@@ -6,7 +6,7 @@ const Footer = () => {
       <div className="container-fluid bg-primary">
         <div className="row ">
           <div className="col-md-9 py-3 text-white">
-            Get connected with us on social networks!
+          Sosyal ağlarda bizimle bağlantı kurun!
           </div>
           <div className="col-md-3 py-3 text-center text-white">
             <Link to="/" title="Apple">
@@ -37,17 +37,14 @@ const Footer = () => {
       <div className="container-fluid bg-dark text-white">
         <div className="row ">
           <div className="col-md-3 py-3">
-            <div className="h6">Company Name</div>
+            <div className="h6">Meram Belediyesi</div>
             <hr />
             <p>
-              Lorem Ipsum is simply dummy text of the printing and typesetting
-              industry. Lorem Ipsum has been the industry's standard dummy text
-              ever since the 1500s, when an unknown printer took a galley of
-              type and scrambled it to make a type specimen book.
+            Meram Belediyesi, Türkiye'nin Konya iline bağlı bir belediyedir. 1992 yılında kurulan belediye, şehir sakinlerine birçok hizmet sunmaktadır. Meram, tarih ve kültür zenginlikleriyle bilinen bir ilçedir ve belediye, bu zenginlikleri koruma ve geliştirme misyonunu üstlenmiştir.
             </p>
           </div>
           <div className="col-md-3 py-3">
-            <div className="h6">Products</div>
+            <div className="h6">Ürünler</div>
             <hr />
             <ul className="list-group list-group-flush">
               <li className="list-group-item bg-dark text-white border-light">
@@ -55,7 +52,7 @@ const Footer = () => {
                   to="/"
                   className="text-decoration-none text-white stretched-link"
                 >
-                  Electronics
+                  Konyaya Özgü ürünler
                 </Link>
               </li>
               <li className="list-group-item bg-dark text-white border-light">
@@ -63,7 +60,7 @@ const Footer = () => {
                   to="/"
                   className="text-decoration-none text-white stretched-link"
                 >
-                  Mobiles
+                  Moda
                 </Link>
               </li>
               <li className="list-group-item bg-dark text-white border-light">
@@ -71,7 +68,7 @@ const Footer = () => {
                   to="/"
                   className="text-decoration-none text-white stretched-link"
                 >
-                  Car & bike
+                  Süpermarket
                 </Link>
               </li>
               <li className="list-group-item bg-dark text-white border-light">
@@ -79,7 +76,7 @@ const Footer = () => {
                   to="/"
                   className="text-decoration-none text-white stretched-link"
                 >
-                  Super Market
+                  Elektronik
                 </Link>
               </li>
               <li className="list-group-item bg-dark text-white border-light">
@@ -87,13 +84,21 @@ const Footer = () => {
                   to="/"
                   className="text-decoration-none text-white stretched-link"
                 >
-                  Travel Cards
+                  Mobilya
+                </Link>
+              </li>
+              <li className="list-group-item bg-dark text-white border-light">
+                <Link
+                  to="/"
+                  className="text-decoration-none text-white stretched-link"
+                >
+                  Bahçe ürünleri
                 </Link>
               </li>
             </ul>
           </div>
           <div className="col-md-3 py-3">
-            <div className="h6">Policy</div>
+            <div className="h6">Politika</div>
             <hr />
             <ul className="list-group list-group-flush">
               <li className="list-group-item bg-dark text-white border-light">
@@ -101,7 +106,7 @@ const Footer = () => {
                   to="/"
                   className="text-decoration-none text-white stretched-link"
                 >
-                  Return Policy
+                  İade politikasi
                 </Link>
               </li>
               <li className="list-group-item bg-dark text-white border-light">
@@ -109,7 +114,7 @@ const Footer = () => {
                   to="/"
                   className="text-decoration-none text-white stretched-link"
                 >
-                  Terms Of Use
+                  Kullanım Şartları
                 </Link>
               </li>
               <li className="list-group-item bg-dark text-white border-light">
@@ -117,7 +122,7 @@ const Footer = () => {
                   to="/"
                   className="text-decoration-none text-white stretched-link"
                 >
-                  Security
+                  Güvenlik
                 </Link>
               </li>
               <li className="list-group-item bg-dark text-white border-light">
@@ -125,7 +130,7 @@ const Footer = () => {
                   to="/"
                   className="text-decoration-none text-white stretched-link"
                 >
-                  Privacy
+                  Gizlilik
                 </Link>
               </li>
               <li className="list-group-item bg-dark text-white border-light">
@@ -133,28 +138,26 @@ const Footer = () => {
                   to="/"
                   className="text-decoration-none text-white stretched-link"
                 >
-                  EPR Compliance
+                  EPR Uyumluluğu
                 </Link>
               </li>
             </ul>
           </div>
           <div className="col-md-3 py-3">
-            <div className="h6">Address</div>
+            <div className="h6">Adres</div>
             <hr />
             <address>
-              <strong>Twitter, Inc.</strong>
+              <strong>Konum</strong>
               <br />
-              1355 Market St, Suite 900
+              Meram/Konya
               <br />
-              San Francisco, CA 94103
-              <br />
-              <abbr title="Phone">P:</abbr> (123) 456-7890
+              <abbr title="Telefon"></abbr> (444) 3-042
             </address>
-            <div className="h6">Customer Care</div>
+            <div className="h6">Müşteri Hizmetleri</div>
             <hr />
-            <i className="bi bi-telephone"></i> +1800 100 1000
+            <i className="bi bi-telephone"></i> 04443042
             <br />
-            <i className="bi bi-envelope"></i> info@email.com
+            <i className="bi bi-envelope"></i> bizimmeram@meram.bel.tr
           </div>
         </div>
       </div>
@@ -162,21 +165,21 @@ const Footer = () => {
         <div className="row">
           <div className="col-md-2 py-2">
             <Link to="/" className="text-white text-decoration-none">
-              <i className="bi bi-briefcase text-warning"></i> Partner with us
+              <i className="bi bi-briefcase text-warning"></i>Bizimle Paylaşın
             </Link>
           </div>
           <div className="col-md-2 py-2">
             <Link to="/" className="text-white text-decoration-none">
-              <i className="bi bi-badge-ad text-info"></i> Advertise
+              <i className="bi bi-badge-ad text-info"></i>Yaptıklarımız
             </Link>
           </div>
           <div className="col-md-2 py-2">
             <Link to="/" className="text-white text-decoration-none">
-              <i className="bi bi-gift"></i> Gift
+              <i className="bi bi-gift"></i> Evlilik/Nikah
             </Link>
           </div>
           <div className="col-md-3 py-2">
-            © 2009-{new Date().getFullYear()} React-E-Commerce.com (
+            © 2023-{new Date().getFullYear()} meram.bel.tr (
             {process.env.REACT_APP_VERSION})
           </div>
           <div className="col-md-3 py-2 bg-white">

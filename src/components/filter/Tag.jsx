@@ -11,29 +11,17 @@ const FilterTag = (props) => {
         aria-expanded="true"
         aria-controls="filterTag"
       >
-        Product Tags
+        Etiketler
       </div>
       <div className="card-body show" id="filterTag">
         <Link to="/" className="btn btn-sm btn-outline-info me-2 mb-2">
-          Summer
+          Mevlana Şekeri
         </Link>
         <Link to="/" className="btn btn-sm btn-outline-secondary me-2 mb-2">
-          Clothing
+          Hurma Şekeri
         </Link>
         <Link to="/" className="btn btn-sm btn-outline-success me-2 mb-2">
-          Woman
-        </Link>
-        <Link to="/" className="btn btn-sm btn-outline-danger me-2 mb-2">
-          Hot Trend
-        </Link>
-        <Link to="/" className="btn btn-sm btn-outline-dark me-2 mb-2">
-          Jacket
-        </Link>
-        <Link to="/" className="btn btn-sm btn-outline-primary me-2 mb-2">
-          Men
-        </Link>
-        <Link to="/" className="btn btn-sm btn-outline-warning me-2 mb-2">
-          Luxyry
+          Çekme Helva
         </Link>
       </div>
     </div>

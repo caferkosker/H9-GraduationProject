@@ -11,7 +11,7 @@ const FilterCategory = (props) => {
         aria-expanded="true"
         aria-controls="filterCategory"
       >
-        Categories
+        Kategoriler
       </div>
       <ul
         className="list-group list-group-flush show"
@@ -19,32 +19,27 @@ const FilterCategory = (props) => {
       >
         <li className="list-group-item">
           <Link to="/" className="text-decoration-none stretched-link">
-            Clothing
+            Mevlana Şekeri
           </Link>
         </li>
         <li className="list-group-item">
           <Link to="/" className="text-decoration-none stretched-link">
-            Leather Bag
+            Etliekmek
           </Link>
         </li>
         <li className="list-group-item">
           <Link to="/" className="text-decoration-none stretched-link">
-            Trausers
+            Yağ Somunu
           </Link>
         </li>
         <li className="list-group-item">
           <Link to="/" className="text-decoration-none stretched-link">
-            Sweater & Cardigans
+            Konya Gofreti
           </Link>
         </li>
         <li className="list-group-item">
           <Link to="/" className="text-decoration-none stretched-link">
-            High Heels
-          </Link>
-        </li>
-        <li className="list-group-item">
-          <Link to="/" className="text-decoration-none stretched-link">
-            Coats & Jackets
+            Konya Helvası
           </Link>
         </li>
       </ul>

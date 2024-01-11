@@ -9,7 +9,7 @@ const Header = () => {
         <div className="row g-3">
           <div className="col-md-3 text-center">
             <Link to="/">
-              <img alt="logo" src="../../images/logo.webp" />
+            <img alt="logo" src="../../images/MeramBelediyesiLogo.png" width="100" height="100" />
             </Link>
           </div>
           <div className="col-md-5">
@@ -38,22 +38,22 @@ const Header = () => {
               <ul className="dropdown-menu">
                 <li>
                   <Link className="dropdown-item" to="/account/profile">
-                    <i className="bi bi-person-square"></i> My Profile
+                    <i className="bi bi-person-square"></i> Profilim
                   </Link>
                 </li>
                 <li>
                   <Link className="dropdown-item" to="/star/zone">
-                    <i className="bi bi-star-fill text-warning"></i> Star Zone
+                    <i className="bi bi-star-fill text-warning"></i> Favoriler
                   </Link>
                 </li>
                 <li>
                   <Link className="dropdown-item" to="/account/orders">
-                    <i className="bi bi-list-check text-primary"></i> Orders
+                    <i className="bi bi-list-check text-primary"></i> Siparişlerim
                   </Link>
                 </li>
                 <li>
                   <Link className="dropdown-item" to="/account/wishlist">
-                    <i className="bi bi-heart-fill text-danger"></i> Wishlist
+                    <i className="bi bi-heart-fill text-danger"></i> Beğendiklerim
                   </Link>
                 </li>
                 <li>
@@ -62,13 +62,13 @@ const Header = () => {
                 <li>
                   <Link className="dropdown-item" to="/account/notification">
                     <i className="bi bi-bell-fill text-primary"></i>
-                    Notification
+                    Bildirimler
                   </Link>
                 </li>
                 <li>
                   <Link className="dropdown-item" to="/support">
                     <i className="bi bi-info-circle-fill text-success"></i>
-                    Support
+                    Destek
                   </Link>
                 </li>
                 <li>
@@ -77,7 +77,7 @@ const Header = () => {
                 <li>
                   <Link className="dropdown-item" to="/">
                     <i className="bi bi-door-closed-fill text-danger"></i>
-                    Logout
+                    Çıkış Yap
                   </Link>
                 </li>
               </ul>

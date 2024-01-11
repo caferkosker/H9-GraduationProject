@@ -5,7 +5,7 @@ const CardFeaturedProduct = (props) => {
   return (
     <div className="card mb-3">
       <div className="card-header fw-bold text-uppercase">
-        Featured Products
+      Özel Ürünler
       </div>
       <div className="card-body">
         {products.map((product, idx) => (

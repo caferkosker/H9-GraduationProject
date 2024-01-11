@@ -10,7 +10,7 @@ const FilterColor = (props) => {
         aria-expanded="true"
         aria-controls="filterColor"
       >
-        Color
+        Çeşitleri
       </div>
       <ul className="list-group list-group-flush show" id="filterColor">
         <li className="list-group-item">
@@ -22,7 +22,7 @@ const FilterColor = (props) => {
                 id="flexCheckColor1"
               />
               <label className="form-check-label" htmlFor="flexCheckColor1">
-                Blue <span className="text-muted">(5)</span>
+                SADE <span className="text-muted">(5)</span>
               </label>
             </div>
 
@@ -33,7 +33,7 @@ const FilterColor = (props) => {
                 id="flexCheckColor2"
               />
               <label className="form-check-label" htmlFor="flexCheckColor2">
-                Gray <span className="text-muted">(8)</span>
+                KAKAOLU <span className="text-muted">(8)</span>
               </label>
             </div>
           </div>
@@ -47,7 +47,7 @@ const FilterColor = (props) => {
                 id="flexCheckColor3"
               />
               <label className="form-check-label" htmlFor="flexCheckColor3">
-                Green <span className="text-muted">(12)</span>
+                ANTEP FISTIKLI <span className="text-muted">(12)</span>
               </label>
             </div>
 
@@ -58,7 +58,7 @@ const FilterColor = (props) => {
                 id="flexCheckColor4"
               />
               <label className="form-check-label" htmlFor="flexCheckColor4">
-                Red <span className="text-muted">(15)</span>
+                ÇİLEKLİ <span className="text-muted">(15)</span>
               </label>
             </div>
           </div>
@@ -72,7 +72,7 @@ const FilterColor = (props) => {
                 id="flexCheckColor5"
               />
               <label className="form-check-label" htmlFor="flexCheckColor5">
-                Yellow <span className="text-muted">(6)</span>
+                LİMONLU <span className="text-muted">(6)</span>
               </label>
             </div>
             <div className="form-check col">
@@ -82,7 +82,7 @@ const FilterColor = (props) => {
                 id="flexCheckColor6"
               />
               <label className="form-check-label" htmlFor="flexCheckColor6">
-                Cyan Blue <span className="text-muted">(2)</span>
+                YABAN MERSİNLİ <span className="text-muted">(2)</span>
               </label>
             </div>
           </div>
@@ -95,18 +95,8 @@ const FilterColor = (props) => {
                 type="checkbox"
                 id="flexCheckColor7"
               />
-              <label className="form-check-label" htmlFor="flexCheckColor7">
-                Light <span className="text-muted">(3)</span>
-              </label>
-            </div>
-            <div className="form-check col">
-              <input
-                className="form-check-input bg-dark"
-                type="checkbox"
-                id="flexCheckColor8"
-              />
-              <label className="form-check-label" htmlFor="flexCheckColor8">
-                Dark <span className="text-muted">(7)</span>
+              <label className="form-check-label" htmlFor="flexCheckColor2">
+                BİTTERLİ <span className="text-muted">(7)</span>
               </label>
             </div>
           </div>

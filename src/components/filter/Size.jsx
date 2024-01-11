@@ -10,7 +10,7 @@ const FilterSize = (props) => {
         aria-expanded="true"
         aria-controls="filterSize"
       >
-        Size
+        Paket BÜyüklüğü
       </div>
       <ul className="list-group list-group-flush show" id="filterSize">
         <li className="list-group-item">
@@ -22,7 +22,7 @@ const FilterSize = (props) => {
                 id="flexCheckSize1"
               />
               <label className="form-check-label" htmlFor="flexCheckSize1">
-                S <span className="text-muted">(8)</span>
+                1 KG <span className="text-muted">(8)</span>
               </label>
             </div>
 
@@ -33,7 +33,7 @@ const FilterSize = (props) => {
                 id="flexCheckSize4"
               />
               <label className="form-check-label" htmlFor="flexCheckSize4">
-                XL <span className="text-muted">(9)</span>
+                2 KG <span className="text-muted">(9)</span>
               </label>
             </div>
           </div>
@@ -47,7 +47,7 @@ const FilterSize = (props) => {
                 id="flexCheckSize2"
               />
               <label className="form-check-label" htmlFor="flexCheckSize2">
-                M <span className="text-muted">(10)</span>
+                3 KG <span className="text-muted">(10)</span>
               </label>
             </div>
 
@@ -58,7 +58,7 @@ const FilterSize = (props) => {
                 id="flexCheckSize5"
               />
               <label className="form-check-label" htmlFor="flexCheckSize5">
-                2XL <span className="text-muted">(5)</span>
+                4 KG <span className="text-muted">(5)</span>
               </label>
             </div>
           </div>
@@ -72,7 +72,7 @@ const FilterSize = (props) => {
                 id="flexCheckSize3"
               />
               <label className="form-check-label" htmlFor="flexCheckSize3">
-                L <span className="text-muted">(15)</span>
+                5 KG <span className="text-muted">(15)</span>
               </label>
             </div>
 
@@ -83,7 +83,7 @@ const FilterSize = (props) => {
                 id="flexCheckSize6"
               />
               <label className="form-check-label" htmlFor="flexCheckSize6">
-                3XL <span className="text-muted">(2)</span>
+                6 KG <span className="text-muted">(2)</span>
               </label>
             </div>
           </div>

@@ -2,7 +2,7 @@ const SettingForm = () => {
   return (
     <div className="card border-danger">
       <h6 className="card-header">
-        <i className="bi bi-gear-fill text-danger"></i> Settiing
+        <i className="bi bi-gear-fill text-danger"></i> Setting
       </h6>
       <ul className="list-group list-group-flush">
         <li className="list-group-item">

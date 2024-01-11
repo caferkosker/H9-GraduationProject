@@ -2,7 +2,7 @@ import { Link } from "react-router-dom";
 import Countdown from "react-countdown";
 
 // Random component
-const Completionist = () => <span>Deals End!</span>;
+const Completionist = () => <span>Son Gün!</span>;
 
 // Renderer callback with condition
 const renderer = ({ hours, minutes, seconds, completed }) => {
@@ -13,7 +13,7 @@ const renderer = ({ hours, minutes, seconds, completed }) => {
     // Render a countdown
     return (
       <span className="text-muted small">
-        {hours}:{minutes}:{seconds} Left
+        {hours}:{minutes}:{seconds} Sol
       </span>
     );
   }
@@ -28,7 +28,7 @@ const CardDealsOfTheDay = (props) => {
           <Countdown date={props.endDate} renderer={renderer} />
           <span className="float-end">
             <Link to={props.to} className="btn btn-sm btn-outline-primary">
-              View All
+              Hepsini gör
             </Link>
           </span>
         </h5>

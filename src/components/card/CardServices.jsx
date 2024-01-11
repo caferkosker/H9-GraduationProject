@@ -7,7 +7,7 @@ const CardServices = (props) => {
   return (
     <div className="card mb-3">
       <div className="card-header fw-bold text-uppercase">
-        Custom Service
+      Müşteri servisi
       </div>
       <div className="card-body">
         <div className="row border-bottom">
@@ -16,8 +16,8 @@ const CardServices = (props) => {
           </div>
           <div className="col">
             <div className="ms-3">
-              <span className="fw-bold">Free Delivery</span>
-              <p className="text-muted small">From $59.89</p>
+              <span className="fw-bold">Ücretsiz teslimat</span>
+              <p className="text-muted small">59,8₺ 'dan başlayan fiyatlarla</p>
             </div>
           </div>
         </div>
@@ -27,8 +27,8 @@ const CardServices = (props) => {
           </div>
           <div className="col">
             <div className="ms-3">
-              <span className="fw-bold">Support 24/7</span>
-              <p className="text-muted small m-0">Online 24 hours</p>
+              <span className="fw-bold">7/24 Destek</span>
+              <p className="text-muted small m-0">24 saat çevrimiçi</p>
             </div>
           </div>
         </div>
@@ -38,8 +38,8 @@ const CardServices = (props) => {
           </div>
           <div className="col">
             <div className="ms-3">
-              <span className="fw-bold">Free return</span>
-              <p className="text-muted small m-0">365 a day</p>
+              <span className="fw-bold">Ücretsiz iade</span>
+              <p className="text-muted small m-0">günde 365</p>
             </div>
           </div>
         </div>

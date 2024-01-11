@@ -10,7 +10,7 @@ const Support = (props) => {
             <span className="p-3 bg-light rounded-circle me-3 text-dark">
               <IconCash width={40} height={40} />
             </span>
-            Reasonable prices
+            Uygun fiyatlar
           </div>
         </div>
       </div>
@@ -20,7 +20,7 @@ const Support = (props) => {
             <span className="p-3 bg-light rounded-circle me-3 text-dark">
               <IconHeadset width={40} height={40} />
             </span>
-            Customer support 24/7
+            Müşteri desteği 7/24
           </div>
         </div>
       </div>
@@ -30,7 +30,7 @@ const Support = (props) => {
             <span className="p-3 bg-light rounded-circle me-3 text-dark">
               <IconTruck width={40} height={40} />
             </span>
-            Quick delivery
+            Hızlı Teslimat
           </div>
         </div>
       </div>

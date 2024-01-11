@@ -7,12 +7,12 @@ const CardProductGrid = (props) => {
       <img src={product.img} className="card-img-top" alt="..." />
       {product.isNew && (
         <span className="badge bg-success position-absolute mt-2 ms-2">
-          New
+          Yeni
         </span>
       )}
       {product.isHot && (
         <span className="badge bg-danger position-absolute r-0 mt-2 me-2">
-          Hot
+          Sıcak
         </span>
       )}
       {(product.discountPercentage > 0 || product.discountPrice > 0) && (

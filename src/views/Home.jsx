@@ -96,7 +96,7 @@ class HomeView extends Component {
         </div>
 
         <div className="bg-info bg-gradient p-3 text-center mb-3">
-          <h4 className="m-0">Explore Fashion Collection</h4>
+          <h4 className="m-0">En Çok Satılanlar</h4>
         </div>
         <div className="container">
           <div className="row">
@@ -107,7 +107,7 @@ class HomeView extends Component {
                   className="img-fluid rounded-circle"
                   alt="..."
                 />
-                <div className="text-center h6">Men's Clothing</div>
+                <div className="text-center h6">Erkek Giyim</div>
               </Link>
             </div>
             <div className="col-md-3">
@@ -117,7 +117,7 @@ class HomeView extends Component {
                   className="img-fluid rounded-circle"
                   alt="..."
                 />
-                <div className="text-center h6">Women's Clothing</div>
+                <div className="text-center h6">Kadın Giyim</div>
               </Link>
             </div>
             <div className="col-md-3">
@@ -127,7 +127,7 @@ class HomeView extends Component {
                   className="img-fluid rounded-circle"
                   alt="..."
                 />
-                <div className="text-center h6">Smartwatch</div>
+                <div className="text-center h6">Teknoloji</div>
               </Link>
             </div>
             <div className="col-md-3">
@@ -137,7 +137,7 @@ class HomeView extends Component {
                   className="img-fluid rounded-circle"
                   alt="..."
                 />
-                <div className="text-center h6">Footwear</div>
+                <div className="text-center h6">Ayakkabı</div>
               </Link>
             </div>
           </div>

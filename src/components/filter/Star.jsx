@@ -8,7 +8,7 @@ const FilterStar = (props) => {
         aria-expanded="true"
         aria-controls="filterStar"
       >
-        Customer Review
+        MÜŞTERİ MEMNUNİYETİ
       </div>
       <div className="card-body show" id="filterStar">
         <div className="form-check">
