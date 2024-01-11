@@ -3,7 +3,6 @@
 <p align="center">
  Built with React JS, Bootstrap 5
   <br>
-  <a href="https://e-commerce-template.surge.sh/" target="_blank"><strong>Demo »</strong></a>
   <br>
   <br>
 
