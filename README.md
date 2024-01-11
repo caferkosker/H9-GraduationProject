@@ -5,9 +5,9 @@
   <br>
   <br>
   <br>
-  <a href="Example1.png"></a>
+  <img src="Example1.png" alt="">
   <br>
-  <a href="Example2.png"></a>
+  <img src="Exampl21.png" alt="">
   
 
    
