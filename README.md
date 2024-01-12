@@ -1,9 +1,9 @@
 Meram Belediyesi Web Sitesi için bir satış mağazası sayfası oluşturdum.
 ## 
+<img src="Example3.png" alt="" width="900" height="500">
+<img src="Example4.png" alt="" width="900" height="500">
 <img src="Example1.png" alt="" width="900" height="500">
 <img src="Example2.png" alt="" width="900" height="500">
-<img src="Example1.png" alt="" width="900" height="500">
-<img src="Example1.png" alt="" width="900" height="500">
 
 ##
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=quare&labelColor=000&logo=Github&logoColor=white)](https://github.com/caferkosker)
