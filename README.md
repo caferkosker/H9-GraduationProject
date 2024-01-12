@@ -1,9 +1,8 @@
-Meram Belediyesi Web Sitesi için bir satış mağazası sayfası oluşturdum.
-## 
-<img src="Example3.png" alt="" width="900" height="500">
-<img src="Example4.png" alt="" width="900" height="500">
-<img src="Example1.png" alt="" width="900" height="500">
-<img src="Example2.png" alt="" width="900" height="500">
+<h2><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=27902D&random=false&width=1090&height=56&lines=Meram+Belediyesi+Web+Sitesi+i%C3%A7in+bir+sat%C4%B1%C5%9F+ma%C4%9Fazas%C4%B1+sayfas%C4%B1+olu%C5%9Fturdum." alt="Typing SVG" /></a></h2>
+<img src="Example3.png" alt="" width="1030" height="600">
+<img src="Example4.png" alt="" width="1030" height="600">
+<img src="Example1.png" alt="" width="1030" height="600">
+<img src="Example5.png" alt="" width="1030" height="600">
 
 ##
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=quare&labelColor=000&logo=Github&logoColor=white)](https://github.com/caferkosker)
