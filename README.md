@@ -1,6 +1,6 @@
 Meram Belediyesi Web Sitesi için bir satış mağazası sayfası oluşturdum.
 ## 
-![GIF](MeramBelediyesiSatışMağazası.gif)
+<a href="MeramBelediyesiSatışMağazası.gif"></a>
 ##
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=quare&labelColor=000&logo=Github&logoColor=white)](https://github.com/caferkosker)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-C13584?style=flat-quare&labelColor=C13584&logo=instagram&logoColor=white)](https://www.instagram.com/cafer_koskerr/)
