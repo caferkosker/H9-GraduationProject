@@ -1,4 +1,4 @@
-<h2 align="center">E-Commerce Template</h2>
+<h2 align="center">Graduation Project</h2>
 
 <p align="center">
  Built with React JS, Bootstrap 5
